@@ -3,7 +3,7 @@ import requests
 import json
 
 # -------------------------------------------------------------------
-# DATA_URL = https://raw.githubusercontent.com/sofiaMata/quizADA/main/items.json
+# DATA_URL = https://raw.githubusercontent.com/sofiaamata/Pruebas-parametricas-y-no-parametricas/main/app.py
 # -------------------------------------------------------------------
 
 st.set_page_config(page_title="Quiz Estadística ADA", layout="centered")
