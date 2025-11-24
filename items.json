@@ -1,0 +1,46 @@
+[
+  {
+    "pregunta": "¿Qué prueba es adecuada para comparar dos grupos independientes cuando los datos son normales y las varianzas son homogéneas?",
+    "opciones": [
+      "U de Mann-Whitney",
+      "t de Student para muestras independientes",
+      "Wilcoxon pareado"
+    ],
+    "correcta": 1,
+    "explicacion": "La t de Student independiente se usa con datos normales y varianzas homogéneas."
+  },
+  {
+    "pregunta": "¿Cuál es la prueba indicada cuando se comparan dos grupos independientes pero no hay normalidad?",
+    "opciones": [
+      "U de Mann-Whitney",
+      "t de Student",
+      "ANOVA"
+    ],
+    "correcta": 0,
+    "explicacion": "Mann-Whitney es la alternativa no paramétrica para dos grupos sin normalidad."
+  },
+  {
+    "pregunta": "La prueba Chi-cuadrada se utiliza principalmente para:",
+    "opciones": [
+      "Comparar medias",
+      "Analizar asociación entre variables categóricas",
+      "Evaluar correlación lineal"
+    ],
+    "correcta": 1,
+    "explicacion": "Chi-cuadrada compara frecuencias entre categorías."
+  },
+  {
+    "pregunta": "¿Qué prueba se usa para comparar dos mediciones tomadas a los mismos sujetos?",
+    "opciones": [
+      "t de Student para muestras relacionadas",
+      "ANOVA",
+      "Kruskal-Wallis"
+    ],
+    "correcta": 0,
+    "explicacion": "La t relacionada compara dos mediciones del mismo sujeto."
+  },
+  {
+    "pregunta": "Si tengo dos mediciones pareadas pero no hay normalidad en las diferencias, debo usar:",
+    "opciones": [
+      "t pareada",
+      "Chi-c
